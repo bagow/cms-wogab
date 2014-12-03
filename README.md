@@ -1,8 +1,8 @@
 WoGab - Wouldn't gab
 =========
 
-Light sttic nodb python cms
+Light static nodb php cms
 
 У данной CMS основной принцип заключается в минималистичности всего. Еcли что-то можно сделать проще надо делать проще.
 
-Технологии: Python, css, html. 
+Технологии: php, css, html.
