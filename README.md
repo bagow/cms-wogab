@@ -1,7 +1,7 @@
 WoGab - Wouldn't gab
 =========
 
-Light static nodb php cms
+Light static nodb php cms opensource - php, js, css, html.
 
 У данной CMS основной принцип заключается в минималистичности всего. Еcли что-то можно сделать проще надо делать проще.
 
@@ -19,5 +19,3 @@ Light static nodb php cms
   в. Импорт<br/>
   г. Экспорт<br/>
   д. Карточка товара<br/>
-
-Технологии: php, js, css, html.
